@@ -34,3 +34,8 @@ by using `AWS_PROFILE=<my_aws_cli_profile> terraform <command>`
     * _Side note:_ with `terraform apply -auto-approve [...]` you can skip the additional input after the planning step
 6. if you are tired of your infrastructure you can run `terraform destroy -var-file=variables.tfvars`<br> 
     * _Side note:_ with `terraform destroy -auto-approve [...]` you can skip the additional input after the planning step
+    
+## Contact
+Feel free to contact me in case of questions. :wave: <br>
+:baby_chick: (aka Twitter): @wolkencode <br>
+:email: schille.nora@gmail.com
