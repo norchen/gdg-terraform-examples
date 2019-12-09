@@ -37,5 +37,5 @@ by using `AWS_PROFILE=<my_aws_cli_profile> terraform <command>`
     
 ## Contact
 Feel free to contact me in case of questions. :wave: <br>
-:baby_chick: (aka Twitter): @wolkencode <br>
+:baby_chick: (aka Twitter): [@wolkencode](https://twitter.com/wolkencode) <br>
 :email: schille.nora@gmail.com
